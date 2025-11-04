@@ -90,13 +90,10 @@ String is: 6f7312ea8606ab07d385b3096c8010b344cf496f0fc6f48a383a503e0cc88f78400e5
 ## 📁 Project Structure
 ```
 sha512-proof-of-work/
-│
-├── src/                        # Source folder
-│   ├── build/                  # Local build directory (temporary artifacts)
-│   ├── CMakeLists.txt          # CMake build configuration
-│   └── main.cpp                # Main program source code
-│
-└── ReadMe.md                   # Project documentation
+├── .gitignore          # Ignore build files and IDE-specific metadata
+├── CMakeLists.txt      # CMake build configuration
+├── main.cpp            # Main program source code
+└── README.md           # Project documentation
 ```
 
 ---
