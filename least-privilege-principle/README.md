@@ -193,6 +193,3 @@ This project showcases **practical application of the Principle of Least Privile
 
 It demonstrates that **security and functionality can coexist** without running network code as root.
 
----
-
-© 2025 Yelyzaveta Kononenko | FIT ČVUT – BEK Security Labs
